@@ -10,6 +10,8 @@ gem 'net-smtp', require: false
 gem 'bcrypt'
 gem 'jwt'
 gem 'active_model_serializers'
+gem 'will_paginate'
+gem 'faker'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
